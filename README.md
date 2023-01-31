@@ -6,17 +6,33 @@ Here it is! in all its elegance and glory, the historical past monarch of comput
 
 So, to start off, my computer is a dell with these abismal specs
 
-| DELL INSPIRON 14 500                                       |
+| DELL INSPIRON 14 500                                       |  
 | Type of specity spec spec| INFO                            | 
 | -------------------------|:-------------------------------:| 
 | Processor Type           | Intel(R) Core(TM) i7-8565U CPU  | 
 | Processor Speed          | 1.80GHz   1.99 GHz              |   
 | Graphics card(GPU) type  | Intel(R) UHD Graphics Family    |    
 | GPU brand                | (Manufacturer) Intel Corporation|
-| GPU speed                | right-aligned | 
-| GPU memory               | right-aligned |
-| Storage (HDD or SDD)     | right-aligned |
-| Storage Space            | right-aligned |
-| Memory (RAM)             | right-aligned |
+| GPU speed                | 300 MGhz to 1.10-1.15 GHz       | 
+| GPU memory               | 128 MB                          |
+| Storage (HDD or SDD)     | SATA                            |
+| Storage Space            | 1 TB                            |
+| Memory (RAM)             | 16 GB                           |
 
 So the Dell Inspiron 14 500 has pretty usual specs with the exception of the Graphics card being integrated with the processor instead of it being its own unit, due to the computer not being designed for any gaming purposes.
+
+
+
+
+| DELL INSPIRON 14 500                                       |  
+| Type of specity spec spec| INFO                            | 
+| -------------------------|:-------------------------------:| 
+| Processor Type           | Intel(R) Core(TM) i7-8565U CPU  | 
+| Processor Speed          | 1.80GHz   1.99 GHz              |   
+| Graphics card(GPU) type  | Intel(R) UHD Graphics Family    |    
+| GPU brand                | (Manufacturer) Intel Corporation|
+| GPU speed                | 300 MGhz to 1.10-1.15 GHz       | 
+| GPU memory               | 128 MB                          |
+| Storage (HDD or SDD)     | SATA                            |
+| Storage Space            | 1 TB                            |
+| Memory (RAM)             | 16 GB                           |
