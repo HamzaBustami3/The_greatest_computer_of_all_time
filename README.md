@@ -6,4 +6,17 @@ Here it is! in all its elegance and glory, the historical past monarch of comput
 
 So, to start off, my computer is a dell with these abismal specs
 
+| DELL INSPIRON 14 500                     |
+| Type of specity spec spec| INFO          | 
+| -------------            |:-------------:| 
+| Processor Type           | Intel(R) Core(TM) i7-8565U CPU| 
+| Processor Speed          | 1.80GHz   1.99 GHz |   
+| Graphics card(GPU) type  | are neat      |    
+| GPU brand                | right-aligned |
+| GPU speed                | right-aligned | 
+| GPU memory               | right-aligned |
+| Storage (HDD or SDD)     | right-aligned |
+| Storage Space            | right-aligned |
+| Memory (RAM)             | right-aligned |
+
 
