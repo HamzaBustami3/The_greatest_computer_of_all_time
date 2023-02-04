@@ -19,7 +19,9 @@ So, to start off, my computer is a dell with these abismal specs
 | Storage Space            | 1 TB                            |
 | Memory (RAM)             | 16 GB                           |
 
-So the Dell Inspiron 14 500 has pretty usual specs with the exception of the Graphics card being integrated with the processor instead of it being its own unit, due to the computer not being designed for any gaming purposes.
+So the Dell Inspiron 14 500 has pretty usual specs with the exception of the Graphics card being integrated with the processor instead of it being its own unit, due to the computer not being designed for any gaming purposes. It is also, as I said before, a disgusting atrocity, unlike, the Commodore Amiga 500
+
+The Commodore Amiga 500 was released in April 1987 in the Netherlands, after which in 1992 it was discontinued. BUT WHYYYYY?! Its specs were amazing! take a look!
 
 
 
