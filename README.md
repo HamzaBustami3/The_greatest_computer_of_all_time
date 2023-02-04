@@ -21,20 +21,17 @@ So, to start off, my computer is a dell with these abismal specs
 
 So the Dell Inspiron 14 500 has pretty usual specs with the exception of the Graphics card being integrated with the processor instead of it being its own unit, due to the computer not being designed for any gaming purposes. It is also, as I said before, a disgusting atrocity, unlike, the Commodore Amiga 500
 
-The Commodore Amiga 500 was released in April 1987 in the Netherlands, after which in 1992 it was discontinued. BUT WHYYYYY?! Its specs were amazing! take a look!
+The Commodore Amiga 500 (A500) was released in April 1987 in the Netherlands, after which in 1992 it was discontinued. BUT WHYYYYY?! Its specs were amazing! take a look!
+
+
+-The Commodore Amiga had a Motor lla 68000 CPU with an insane processing speed of 7.16 MHz (NTSC) or 7.09 MHz (PAL) this is about 250 time less than my Dell laptop's 2Ghz. Proccessing speed is overrated anyway!
+-The system displays video in analog RGB 50 Hz PAL or 60 Hz NTSC 
+-One 3.5" double-density floppy disk drive is built in. The user can also install up to three external floppy drives, either 3+1⁄2- or 5+1⁄4-inch, via the disk drive port.These drives can be double sided floppy discs containing 901 or 120 bytes
+-The computer has a built-in keyboard (like the DELL)
+-It's a home computer (non-transportable)(unlike the DELL) eww who wants a mobil PC?
 
 
 
 
-| DELL INSPIRON 14 500                                       |  
-| Type of specity spec spec| INFO                            | 
-| -------------------------|:-------------------------------:| 
-| Processor Type           | Intel(R) Core(TM) i7-8565U CPU  | 
-| Processor Speed          | 1.80GHz   1.99 GHz              |   
-| Graphics card(GPU) type  | Intel(R) UHD Graphics Family    |    
-| GPU brand                | (Manufacturer) Intel Corporation|
-| GPU speed                | 300 MGhz to 1.10-1.15 GHz       | 
-| GPU memory               | 128 MB                          |
-| Storage (HDD or SDD)     | SATA                            |
-| Storage Space            | 1 TB                            |
-| Memory (RAM)             | 16 GB                           |
+
+
