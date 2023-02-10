@@ -24,25 +24,25 @@ So the Dell Inspiron 14 500 has pretty usual specs with the exception of the Gra
 ### The Commodore Amiga 500 (A500) was released in April 1987 in the Netherlands, after which in 1992 it was discontinued. BUT WHYYYYY?! Its specs were amazing! take a look!
 
 
-..* The Commodore Amiga had a Motor lla 68000 CPU with an insane processing speed of 7.16 MHz (NTSC) or 7.09 MHz (PAL) this is about 250 time less than my Dell laptop's 2Ghz. Proccessing speed is overrated anyway!
++ The Commodore Amiga had a Motor lla 68000 CPU with an insane processing speed of 7.16 MHz (NTSC) or 7.09 MHz (PAL) this is about 250 time less than my Dell laptop's 2Ghz. Proccessing speed is overrated anyway!
 
 
 
-..* The system displays video in analog RGB 50 Hz PAL or 60 Hz NTSC 
++ The system displays video in analog RGB 50 Hz PAL or 60 Hz NTSC 
 
-..* One 3.5" double-density floppy disk drive is built in. The user can also install up to three external floppy drives, either 3+1⁄2- or 5+1⁄4-inch, via the disk drive port. These drives can be double sided floppy discs containing 901 or 120 bytes
++ One 3.5" double-density floppy disk drive is built in. The user can also install up to three external floppy drives, either 3+1⁄2- or 5+1⁄4-inch, via the disk drive port. These drives can be double sided floppy discs containing 901 or 120 bytes
 
-..* The computer has a built-in keyboard (like the DELL)
++ The computer has a built-in keyboard (like the DELL)
 
-..* It's a home computer (non-transportable)(unlike the DELL) eww who wants a mobile PC?
++ It's a home computer (non-transportable)(unlike the DELL) eww who wants a mobile PC?
 
-..* It has 512 KB of Ram (memory) and can be increased to up to 10 MB with maximum upgrades! not too shabby for the time but still 1000 times less than my Dell laptops 8 Gigabytes.
++ It has 512 KB of Ram (memory) and can be increased to up to 10 MB with maximum upgrades! not too shabby for the time but still 1000 times less than my Dell laptops 8 Gigabytes.
 
 Please keep in mind that no more information about the PC was available due to the age of the PC and the differences in the systems of computers.
 
 Here is where I got my information:
-..* [COMMODORE_AMIGA_ARTICLE](https://en.wikipedia.org/wiki/Amiga_500)
-..* [OLD_COMPUTERS.COM_ARTICLE](https://www.old-computers.com/museum/computer.asp?c=65)
++ [COMMODORE_AMIGA_ARTICLE](https://en.wikipedia.org/wiki/Amiga_500)
++ [OLD_COMPUTERS.COM_ARTICLE](https://www.old-computers.com/museum/computer.asp?c=65)
 
 
 
